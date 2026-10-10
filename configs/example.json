@@ -1,0 +1,9 @@
+{
+  "data_glob": "data/private/*.xlsx",
+  "output_dir": "outputs/study",
+  "seed": 42,
+  "target_mode": "suicide_ideation",
+  "backbone": "deep_resmlp",
+  "pipeline_profile": "balanced",
+  "device": "auto"
+}

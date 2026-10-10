@@ -1,0 +1,5 @@
+{
+  "10、": {"type": "ordinal", "min": 1, "max": 5},
+  "1、": {"type": "nominal"},
+  "participant_id": {"drop": true}
+}
